@@ -7,7 +7,7 @@
 *Building intelligent systems that learn, adapt, and solve real problems*
 
 <p align="center">
-  <a href="https://poorna-0-1.netlify.app/">
+  <a href="https://po2rna-eight.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20thePo0rnaLab-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/poornachandra-d-h-588624301">
