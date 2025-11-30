@@ -194,7 +194,7 @@ Hybrid recommendation system | Handles 100K+ users | Increased engagement by 45%
 
 ---
 
-## 📈 Contribution Stats
+<!--## 📈 Contribution Stats
 
 <div align="center">
 
@@ -202,7 +202,7 @@ Hybrid recommendation system | Handles 100K+ users | Increased engagement by 45%
 
 </div>
 
----
+----->
 
 ## 💼 What I Bring to the Table
 
